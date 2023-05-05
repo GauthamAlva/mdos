@@ -3,9 +3,9 @@
 <h1 align="center">MetaDOS</h1>
 
 <h2 align="center">GROUP: CSE/CS/2022/P03 </h2>
-<h2 align="center">MEMBERS: KARTHIK MK
-                            ELVIN DSOUZA
-                            GAUTHAM ALVA
+<h2 align="center">MEMBERS: KARTHIK MK,
+                            ELVIN DSOUZA,
+                            GAUTHAM ALVA,
                             DHRUVA D NAYAK</h2>
 
 
