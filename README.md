@@ -1,8 +1,14 @@
-<p align="center">
-  <img align="center" width=200 height= 200 src="/src/logo.png"></img>
-</p>
+<h1 align="center">CANARA ENGINEERING COLLEGE</h1>
 
 <h1 align="center">MetaDOS</h1>
+
+<h2 align="center">GROUP: CSE/CS/2022/P03 </h2>
+<h2 align="center">MEMBERS: KARTHIK MK
+                            ELVIN DSOUZA
+                            GAUTHAM ALVA
+                            DHRUVA D NAYAK</h2>
+
+
 
 <p aign="center">
   <p align="center">Decentralized file sharing & file storage platform on Ethereum blockchain.</p>
